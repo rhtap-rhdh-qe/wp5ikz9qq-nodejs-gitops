@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wp5ikz9qq-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/wp5ikz9qq-nodejs
